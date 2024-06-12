@@ -1,0 +1,3 @@
+[submodule "Extras/obsidian-templates"]
+	path = Extras/Templates
+	url = git@github.com:kbourgoin/obsidian-templates.git
