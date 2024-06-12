@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "636a67e7c8c93736",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f845cca731178a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b432065bbb5877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c09d28a8327ff8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "057e12a172054164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "590432e1e4b0502a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2483742c6ef7e48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "193cb340abfa60fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2025a5779b7f2fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e41d62e9a6bb45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94241bc17e4a55f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69ead0f21945ca97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93ccc26d40979992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a940788b0fc66bc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "590432e1e4b0502a",
+  "lastOpenFiles": [
+    "Extras/Templates/README.md",
+    "Welcome.md",
+    "Daily & Weekly Notes/Weekly Notes",
+    "Daily & Weekly Notes",
+    "Extras/Templates/LICENSE",
+    "Extras/README.md",
+    "Extras/Templates/Zettle.md",
+    "Extras/Templates/Daily Note.md",
+    "Extras/Templates/Weekly Note.md",
+    "Extras/Templates/Project.md",
+    "Extras/Templates/People.md",
+    "Extras/Templates/Meeting.md",
+    "Extras/Templates/Generic Note.md",
+    "Extras/Templates/Book.md",
+    "Extras/Templates",
+    "Extras"
+  ]
+}
